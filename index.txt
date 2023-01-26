@@ -6,3 +6,12 @@ Title : I'm the original one
 Content : My new years resolution
 1. get a job.
 2. go to gym everyday
+
+# Experimental Part
+## To do List
+1. Washing dishes
+2. Going to gym
+
+## Doing List
+1. Wake up at 6 in the morning
+2. do stretch 
