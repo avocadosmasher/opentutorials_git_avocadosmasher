@@ -41,4 +41,4 @@ Content : My new years resolution
 
 ## Conflict.rdd0426.member2
 
-## 외부도구.master
+## 외부도구.master.remote
