@@ -3,3 +3,6 @@ The first version
 This is a ".txt" file
 
 Title : I'm the original one
+Content : My new years resolution
+1. get a job.
+2. go to gym everyday
