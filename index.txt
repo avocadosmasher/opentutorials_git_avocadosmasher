@@ -9,3 +9,6 @@ This is a ".txt" file
 1. Washing dishes
 2. Going to gym
 
+## Doing List
+1. Wake up at 6 in the morning
+2. do stretch 
