@@ -37,4 +37,4 @@ Content : My new years resolution
 
 ## Push Member2
 
-## Pull rdd0426
+## Conflict.member2
